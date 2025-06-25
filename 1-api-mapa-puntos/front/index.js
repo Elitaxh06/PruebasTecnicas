@@ -2,7 +2,7 @@
 const ul = document.getElementById("listaPuntos")
 
 // URL del API que devuelve la informacion de los puntos
-const url = "http://localhost:3000/api/listaPuntos"
+const url = "http://localhost:3000/api/puntos"
 
 // funcion asincrona para obtener los puntos del API y mostrarlos en el mapa
 async function fetchPuntos(url) {
@@ -23,7 +23,7 @@ async function fetchPuntos(url) {
     // creamos el mapa usando Leaflet
 
     // el setView establece la vista inicial del mapa
-    var map = L.map('map').setView([data[0].lat, data[0].lng], 10);
+    var map = L.map('map').setView([data[0].lat, data[0].lng], 8);
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

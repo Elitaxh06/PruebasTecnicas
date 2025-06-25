@@ -2,13 +2,13 @@
 
 export const getPuntos = (req, res) => {
     const puntos = [
-        {   "lat": 9.935, 
-            "lng": -84.091 ,
+        {   "lat": 10.935, 
+            "lng": -85.091 ,
             "tiempo" : new Date("6 aug 2020")
         
         },
         {   "lat": 10.015, 
-            "lng": -84.105,
+            "lng": -83.105,
             "tiempo" : new Date("2 aug 2017")
         }
     ]

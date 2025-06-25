@@ -6,7 +6,7 @@ import {
 const router = Router()
 
 
-router.get("/listaPuntos", getPuntos)
+router.get("/puntos", getPuntos)
 
 
 export default router
