@@ -31,10 +31,6 @@ Si tienes dudas o sugerencias, no dudes en contactarme.
 
 ## Sobre la implementación y buenas prácticas
 
----
-
-## Nota sobre la implementación
-
 
 > Este repositorio contiene soluciones a diferentes pruebas técnicas orientadas a entrevistas, por lo que las implementaciones están enfocadas en cumplir los requerimientos funcionales de forma ágil y clara.  
 >  
