@@ -1,12 +1,9 @@
-// obtenemos el elemento ul del DOM con el id "listaPuntos"
 const ul = document.getElementById("listaPuntos")
-
-// URL del API que devuelve la informacion de los puntos
 const url = "http://localhost:3000/api/puntos"
 
-// funcion asincrona para obtener los puntos del API y mostrarlos en el mapa
+
 async function fetchPuntos(url) {
-    // obtenemos la informacion del API con fetch
+    
     const response = await fetch(url)
     const json = await response.json()
     const data = json.puntos
