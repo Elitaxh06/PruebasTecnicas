@@ -1,6 +1,6 @@
 # Repositorio de Pruebas Técnicas Full Stack
 
-Este repositorio contendran una colección de problemas de pruebas técnicas que cubren tanto frontend como backend, organizados en carpetas independientes.
+Este repositorio contendra una colección de problemas de pruebas técnicas que cubren tanto frontend como backend, organizados en carpetas independientes.
 
 ---
 
