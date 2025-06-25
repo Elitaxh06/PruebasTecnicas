@@ -29,4 +29,23 @@ Si tienes dudas o sugerencias, no dudes en contactarme.
 
 ---
 
+## Sobre la implementación y buenas prácticas
+
+---
+
+## Nota sobre la implementación
+
+
+> Este repositorio contiene soluciones a diferentes pruebas técnicas orientadas a entrevistas, por lo que las implementaciones están enfocadas en cumplir los requerimientos funcionales de forma ágil y clara.  
+>  
+> Dado que el objetivo principal es resolver los ejercicios en tiempos reducidos, es posible que en algunos casos no se apliquen todas las buenas prácticas de programación como una arquitectura modular, validación de datos robusta o manejo detallado de errores.  
+>  
+> Aun así, cada solución intenta ser lo más entendible y funcional posible, priorizando la claridad del flujo lógico y el cumplimiento de lo solicitado.  
+>  
+> En un entorno de producción o proyecto real, estos ejercicios se podrían optimizar y escalar siguiendo principios de arquitectura limpia, pruebas automatizadas, validación estricta y mejores prácticas de desarrollo.
+
+> Gracias por la comprensión.
+
+---
+
 ¡Espero que te sea útil!
